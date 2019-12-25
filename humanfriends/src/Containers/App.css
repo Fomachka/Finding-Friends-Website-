@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'No. Seven Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('No. Seven Regular'), url('No. Seven Regular.woff') format('woff');
+}
+
+h1 {
+    font-family: 'No. Seven Regular';
+    font-weight: 200;
+    color: #cc0052;
+}
