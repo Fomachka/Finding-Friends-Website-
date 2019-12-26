@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Friendly-Search-Engine/static/css/main.dfb12498.chunk.css",
-    "main.js": "/Friendly-Search-Engine/static/js/main.76c9700e.chunk.js",
-    "main.js.map": "/Friendly-Search-Engine/static/js/main.76c9700e.chunk.js.map",
-    "runtime-main.js": "/Friendly-Search-Engine/static/js/runtime-main.dca7d9d8.js",
-    "runtime-main.js.map": "/Friendly-Search-Engine/static/js/runtime-main.dca7d9d8.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/Friendly-Search-Engine/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.5907de8d.chunk.js": "/Friendly-Search-Engine/static/js/2.5907de8d.chunk.js",
-    "static/js/2.5907de8d.chunk.js.map": "/Friendly-Search-Engine/static/js/2.5907de8d.chunk.js.map",
-    "index.html": "/Friendly-Search-Engine/index.html",
-    "precache-manifest.b8be58d0e8fd0d6d0d3ab12e6c610f65.js": "/Friendly-Search-Engine/precache-manifest.b8be58d0e8fd0d6d0d3ab12e6c610f65.js",
-    "service-worker.js": "/Friendly-Search-Engine/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/Friendly-Search-Engine/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.dfb12498.chunk.css.map": "/Friendly-Search-Engine/static/css/main.dfb12498.chunk.css.map",
-    "static/js/2.5907de8d.chunk.js.LICENSE": "/Friendly-Search-Engine/static/js/2.5907de8d.chunk.js.LICENSE",
-    "static/media/App.css": "/Friendly-Search-Engine/static/media/No. Seven Regular.2cc2be52.woff"
+    "main.css": "/tree/master/humanfriends/static/css/main.bd80d619.chunk.css",
+    "main.js": "/tree/master/humanfriends/static/js/main.8095c81f.chunk.js",
+    "main.js.map": "/tree/master/humanfriends/static/js/main.8095c81f.chunk.js.map",
+    "runtime-main.js": "/tree/master/humanfriends/static/js/runtime-main.34b035f8.js",
+    "runtime-main.js.map": "/tree/master/humanfriends/static/js/runtime-main.34b035f8.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/tree/master/humanfriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5907de8d.chunk.js": "/tree/master/humanfriends/static/js/2.5907de8d.chunk.js",
+    "static/js/2.5907de8d.chunk.js.map": "/tree/master/humanfriends/static/js/2.5907de8d.chunk.js.map",
+    "index.html": "/tree/master/humanfriends/index.html",
+    "precache-manifest.97a876a42a3112686e43b22bbf2d405e.js": "/tree/master/humanfriends/precache-manifest.97a876a42a3112686e43b22bbf2d405e.js",
+    "service-worker.js": "/tree/master/humanfriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/tree/master/humanfriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.bd80d619.chunk.css.map": "/tree/master/humanfriends/static/css/main.bd80d619.chunk.css.map",
+    "static/js/2.5907de8d.chunk.js.LICENSE": "/tree/master/humanfriends/static/js/2.5907de8d.chunk.js.LICENSE",
+    "static/media/App.css": "/tree/master/humanfriends/static/media/No. Seven Regular.2cc2be52.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.dca7d9d8.js",
+    "static/js/runtime-main.34b035f8.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.5907de8d.chunk.js",
-    "static/css/main.dfb12498.chunk.css",
-    "static/js/main.76c9700e.chunk.js"
+    "static/css/main.bd80d619.chunk.css",
+    "static/js/main.8095c81f.chunk.js"
   ]
 }
