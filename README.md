@@ -12,5 +12,5 @@ To start the website!
 
 Don't forget to refresh the link!
 
-Good Lck!
+Good Luck!
 
