@@ -11,5 +11,6 @@ To start the website!
 4. Enjoy the website!
 
 Don't forget to refresh the link!
-Good L
+
+Good Luck!
 
